@@ -1,5 +1,5 @@
 int main(){
-  int x; //useless lol
+  int x; //useless lolilol
   cout << "Ju strong" << endl;
   return;
 }
