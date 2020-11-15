@@ -1,4 +1,4 @@
 int main(){
-cout << "Ju strong" << endl;
-return;
+  cout << "Ju strong" << endl;
+  return;
 }
